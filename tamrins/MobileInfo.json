@@ -1,0 +1,23 @@
+{
+    "info" : {
+        "brand" : "Samsung" ,
+        "model" : "Galexy A56 5G",
+        "os" : "Android 16"
+    },
+    "hardware" : {
+        "ram" : 12,
+        "storage" : 256
+    },
+    "camera" : {
+        "main": ["200MP", "50MP", "10MP", "12MP"],
+        "selfie": "12MP"
+    },
+    "battery" : {
+        "capacity" : 5000,
+        "fast_charging" : 45
+    },
+    "body" : {
+        "color" : "black",
+        "weight" : "230"
+    }
+}

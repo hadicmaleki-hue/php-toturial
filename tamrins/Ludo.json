@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "mahdi",
+        "color" : "yellow",
+        "dice_rolls" : 3,
+        "six_count" : 1,
+        "hit_by_players" : 0,
+        "hits" : 0,
+        "reached_home" : 1,
+        "pieces" : [
+            {"id" : 1 , "pos" : 38},
+            {"id" : 2 , "pos": 0},
+            {"id" : 3 , "pos": 0},
+            {"id" : 4 , "pos": 0}
+        ]
+    },
+    {
+        "name" : "yalda",
+        "color" : "blue",
+        "dice_rolls" : 4,
+        "six_count" : 3,
+        "hit_by_players" : 1,
+        "hits" : 2,
+        "reached_home" : 2,
+        "pieces" : [
+            {"id" : 1 , "pos" : 50},
+            {"id" : 2 , "pos": 23},
+            {"id" : 3 , "pos": 4},
+            {"id" : 4 , "pos": 0}
+        ]
+    },
+    {
+        "name" : "hossein",
+        "color" : "red",
+        "dice_rolls" : 24,
+        "six_count" : 5,
+        "hit_by_players" : 5,
+        "hits" : 1,
+        "reached_home" : 3,
+        "pieces" : [
+            {"id" : 1 , "pos" : 50},
+            {"id" : 2 , "pos": 50},
+            {"id" : 3 , "pos": 50},
+            {"id" : 4 , "pos": 6}
+        ]
+    },
+    {
+        "name" : "fateme",
+        "color" : "green",
+        "dice_rolls" : 31,
+        "six_count" : 5,
+        "hit_by_players" : 3,
+        "hits" : 4,
+        "reached_home" : 2,
+        "pieces" : [
+            {"id" : 1 , "pos" : 50},
+            {"id" : 2 , "pos": 50},
+            {"id" : 3 , "pos": 30},
+            {"id" : 4 , "pos": 20}
+        ]
+    }
+]

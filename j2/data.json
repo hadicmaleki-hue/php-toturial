@@ -1,0 +1,30 @@
+[
+    {
+        "fname": "hadis",
+        "lname": "Maleki",
+        "email": "hadic.maleki@gmail.com",
+        "phone": "09155625867",
+        "address": "this is a sample address of this user"
+    },
+    {
+        "fname": "user",
+        "lname": "test",
+        "email": "usertest@test.com",
+        "phone": "09111111111",
+        "address": "this is a sample address of this user"
+    },
+    {
+        "fname": "first name4",
+        "lname": "last name4",
+        "email": "email4@test.com",
+        "phone": "092123456",
+        "address": "this is an address"
+    },
+    {
+        "fname": "first name5",
+        "lname": "last name5",
+        "email": "email5@test.com",
+        "phone": "095555551",
+        "address": "this is an address5"
+    }
+]
